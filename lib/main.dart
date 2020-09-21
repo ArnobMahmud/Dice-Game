@@ -146,7 +146,7 @@ class _DiceGameState extends State<DiceGame> {
                     color: Colors.white,
                   ),
                 ),
-                onPressed: _changeDice),
+                onPressed: _changeDice,
           ),
         ],
       ),
